@@ -6,3 +6,4 @@ My stupid boss still prefers SVN.
 Creating a new branch is quick and simple.
 Creating a new branch 'feature1'.
 Test add merge.
+Other person do something.
